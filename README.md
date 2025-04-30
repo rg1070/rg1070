@@ -56,7 +56,6 @@
 </div>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-%230084FF.svg?style=for-the-badge)
 ![Google](https://img.shields.io/badge/Google-%234285F4.svg?style=for-the-badge&logo=Google&logoColor=white)
 
 
