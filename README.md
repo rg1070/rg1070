@@ -6,7 +6,7 @@
 </div>
 
  <details>
-  <summary>**⚡ GitHub Stats**</summary>
+  <summary>GitHub Stats</summary>
 
   <br>
 
