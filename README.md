@@ -1,5 +1,6 @@
 ## Welcome to my GitHub page 👋
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirtaherkhani937@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:amirtaherkhani@outlook.com)
 <!--
 **rg1070/rg1070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
