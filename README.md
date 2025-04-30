@@ -5,7 +5,6 @@
 ## Stats
 ![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=amirtaherkhani&count_private=true&show_icons=true&theme=tokyonight) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rg1070)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtaherkhani&hide_progress=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1070&hide_progress=true&show_icons=true&theme=tokyonight)
 
 
