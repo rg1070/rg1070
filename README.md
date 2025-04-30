@@ -2,30 +2,21 @@
    <h1>  <p2>Hello</p2>, Welcome to my GitHub page <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px"> </h1>
 
 <div align="center">
-	
-## **Stats**
 
-	
-<div>
-	
-![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rg1070&count_private=true&show_icons=true)
+ <details>
+  <summary>⚡ GitHub Stats</summary>
 
-<div>
+  <br>
 
+  ![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rg1070&count_private=true&show_icons=true)
 
+  ![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rg1070)
+  ![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rg1070)
+  ![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rg1070&utcOffset=-4.00)
 
-<div>
-	
-![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rg1070)
-![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rg1070)
-![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rg1070&utcOffset=-4.00)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1070&show_icons=true&hide_progress=true)
 
-</div>
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1070&show_icons=true&hide_progress=true)
-
-</div>
+</details>
 
 ## **Skills**
 
