@@ -9,7 +9,6 @@
 <div>
 	
 ![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rg1070&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1070&show_icons=true&hide_progress=true)
 
 <div>
 
@@ -22,7 +21,11 @@
 ![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rg1070&utcOffset=-4.00)
 
 </div>
+</div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1070&show_icons=true&hide_progress=true)
+
+</div>
 
 ## **Skills**
 
