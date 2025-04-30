@@ -2,6 +2,7 @@
    <h1>  <p2>Hello</p2>, Welcome to my GitHub page <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px"> </h1>
 
 <div align="center">
+	
 ## **Stats**
 
 	
