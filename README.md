@@ -1,9 +1,9 @@
-## **Welcome to my GitHub page 👋**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roozbeh.ghasemi67@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Roozbeh.Ghasemi@unh.edu)
-
-## **Stats**
 <div align="center">
+   <h1>  <p2>Hello</p2>, Welcome to my GitHub page <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px"> </h1>
+
+<div align="center">
+## **Stats**
+
 	
 <div>
 	
