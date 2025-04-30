@@ -3,7 +3,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Roozbeh.Ghasemi@unh.edu)
 
 ## Stats
-![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rg1070&count_private=true&show_icons=true&theme=tokyonight) 
+![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rg1070&count_private=true&show_icons=true) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rg1070)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1070&hide_progress=true&show_icons=true&theme=tokyonight)
 
