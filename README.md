@@ -5,6 +5,12 @@
   <p>I build intelligent systems, deploy ML pipelines, and share open-source projects around AI, automation, and data — all while continuously learning and evolving in the field.</p>
 </div>
 
+</div>
+
+![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rg1070)
+
+</div>
+
  <details>
   <summary>GitHub Stats</summary>
 
@@ -12,7 +18,6 @@
 
   ![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rg1070&count_private=true&show_icons=true)
 
-  ![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rg1070)
   ![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rg1070)
   ![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rg1070&utcOffset=-4.00)
 
