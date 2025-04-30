@@ -13,7 +13,7 @@
 	
 ![amirtaherkhani](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rg1070)
 ![amirtaherkhani](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rg1070)
-![amirtaherkhani](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rg1070&utcOffset=3.30)
+![amirtaherkhani](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rg1070&utcOffset=-4.00)
 
 </div>
 
