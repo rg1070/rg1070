@@ -3,13 +3,13 @@
   <h1> <p2>Hello</p2>,Welcome to my GitHub page 👋</h1>
   <p><strong>Machine Learning Engineer | Data Scientist | MLOps Enthusiast</strong></p>
   <p>I build intelligent systems, deploy ML pipelines, and share open-source projects around AI, automation, and data — all while continuously learning and evolving in the field.</p>
-</div>
+<div>
 
-</div>
+<div>
 
 ![rg1070](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rg1070)
 
-</div>
+<div>
 
  <details>
   <summary>GitHub Stats</summary>
