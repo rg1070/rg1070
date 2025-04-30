@@ -2,6 +2,12 @@
    <h1>  <p2>Hello</p2>, Welcome to my GitHub page <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px"> </h1>
 
 <div align="center">
+<div align="center">
+  <h1> Welcome to my GitHub page 👋</h1>
+  <p><strong>Machine Learning Engineer | Data Scientist | MLOps Enthusiast</strong></p>
+  <p>I build intelligent systems, deploy ML pipelines, and share open-source projects around AI, automation, and data — all while continuously learning and evolving in the field.</p>
+  <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px">
+</div>
 
  <details>
   <summary>⚡ GitHub Stats</summary>
