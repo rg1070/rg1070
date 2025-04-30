@@ -9,7 +9,7 @@
 <div>
 	
 ![Roozbeh's github stats](https://github-readme-stats.vercel.app/api?username=rg1070&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1070&hide_progress=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1070&show_icons=true)
 
 <div>
 
